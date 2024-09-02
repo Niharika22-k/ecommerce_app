@@ -5,7 +5,7 @@
 
 The Online Shopping App is a web-based application that allows users to browse, search, and purchase products online. This project demonstrates the integration of Java Server Pages (JSP), Java Servlets, JDBC, and MySQL for building a robust and scalable e-commerce platform.
 
-![image](https://github.com/user-attachments/assets/9eeafef5-2f7f-4461-bc4f-823f55908cf5)
+![image](https://github.com/user-attachments/assets/231ba2e7-7c17-45bb-b26d-4f201ab5eeca)
 
 
 ## Features
@@ -65,12 +65,12 @@ To run this project locally, you need to have the following software installed:
 
 1. **User Registration:**
    - New users can register by clicking on the "Sign Up" link and filling out the registration form.
-     ![image](https://github.com/user-attachments/assets/61d0d362-0c13-4d7b-82ff-82d1c2351bd9)
+![image](https://github.com/user-attachments/assets/dcaf05fa-9ab0-4cef-a8d0-cf03a79a9ffe)
 
 2. **Product Browsing:**
    - Users can browse available products from the homepage.
    - Products are categorized.
-   ![image](https://github.com/user-attachments/assets/439f12d6-4d92-41e9-962a-9c844f63b10c)
+![image](https://github.com/user-attachments/assets/83343625-a604-47da-b5f9-7c91a435a338)
 
 3. **Shopping Cart:**
    - Users can add products to their shopping cart.
